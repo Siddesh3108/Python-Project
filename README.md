@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Project - Employee Data Analytics and Financial Insights
 Introduction:
 This GitHub repository contains a Python script for analyzing employee data, including salary, performance indicators, and financial aspects like expenses, profit, and average salary/increment. The script utilizes pandas for data manipulation and matplotlib for data visualization.
 
